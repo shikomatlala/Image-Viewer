@@ -1,0 +1,1 @@
+In application we attmenpt to take the challenge of moving the pictures and the goal is to make sure that as we move the pictures we can can also delete the pictures that we moved.

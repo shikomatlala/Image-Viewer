@@ -1,0 +1,40 @@
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\obj\Debug\HowToDeleteObjects.csprojAssemblyReference.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\obj\Debug\HowToDeleteObjects.MainForm.resources
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\obj\Debug\HowToDeleteObjects.Properties.Resources.resources
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\obj\Debug\HowToDeleteObjects.csproj.GenerateResource.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\obj\Debug\HowToDeleteObjects.csproj.CoreCompileInputs.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\bin\Debug\HowToDeleteObjects.exe.config
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\bin\Debug\HowToDeleteObjects.exe
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\bin\Debug\HowToDeleteObjects.pdb
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\obj\Debug\HowToDeleteObjects.exe
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects\obj\Debug\HowToDeleteObjects.pdb
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\bin\Debug\HowToDeleteObjects.exe.config
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\bin\Debug\HowToDeleteObjects.exe
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\bin\Debug\HowToDeleteObjects.pdb
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\obj\Debug\HowToDeleteObjects.csprojAssemblyReference.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\obj\Debug\HowToDeleteObjects.MainForm.resources
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\obj\Debug\HowToDeleteObjects.Properties.Resources.resources
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\obj\Debug\HowToDeleteObjects.csproj.GenerateResource.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\obj\Debug\HowToDeleteObjects.csproj.CoreCompileInputs.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\obj\Debug\HowToDeleteObjects.exe
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v2\obj\Debug\HowToDeleteObjects.pdb
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\bin\Debug\HowToDeleteObjects.exe.config
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\bin\Debug\HowToDeleteObjects.exe
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\bin\Debug\HowToDeleteObjects.pdb
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\obj\Debug\HowToDeleteObjects.csprojAssemblyReference.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\obj\Debug\HowToDeleteObjects.MainForm.resources
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\obj\Debug\HowToDeleteObjects.Properties.Resources.resources
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\obj\Debug\HowToDeleteObjects.csproj.GenerateResource.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\obj\Debug\HowToDeleteObjects.csproj.CoreCompileInputs.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\obj\Debug\HowToDeleteObjects.exe
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v3\obj\Debug\HowToDeleteObjects.pdb
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\bin\Debug\HowToDeleteObjects.exe.config
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\bin\Debug\HowToDeleteObjects.exe
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\bin\Debug\HowToDeleteObjects.pdb
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\obj\Debug\HowToDeleteObjects.csprojAssemblyReference.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\obj\Debug\HowToDeleteObjects.MainForm.resources
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\obj\Debug\HowToDeleteObjects.Properties.Resources.resources
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\obj\Debug\HowToDeleteObjects.csproj.GenerateResource.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\obj\Debug\HowToDeleteObjects.csproj.CoreCompileInputs.cache
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\obj\Debug\HowToDeleteObjects.exe
+F:\C#\How To remove Instances of Objects\HowToDeleteObjects v4\obj\Debug\HowToDeleteObjects.pdb
